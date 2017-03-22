@@ -14,8 +14,9 @@
 
 ## List Activity
 
-<p> This page will list all activities available for users to visit. It should include pictures and descriptions of various places and hopefully we can later implement a way of sorting through the activities so that we can make it more applicable to the user's interest.
-</p>
+<p> This page will list all activities available for users to visit. It should include pictures and descriptions of various places and hopefully we can later implement a way of sorting through the activities so that we can make it more applicable to the user's interest.</p>
+
 ![listactivity](https://cloud.githubusercontent.com/assets/25185247/24190269/44893696-0e8c-11e7-9386-c295149fc30b.jpg)
+
 
 
