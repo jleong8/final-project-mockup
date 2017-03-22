@@ -15,6 +15,20 @@ FlowRouter.route('/list', {
   },
 });
 
+FlowRouter.route('/add-adventure', {
+  name: 'Add_Adventure_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Add_Adventure_Page' });
+  },
+});
+
+FlowRouter.route('/list-adventure', {
+  name: 'List_Adventure_Page',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'List_Adventure_Page' });
+  },
+});
+
 FlowRouter.route('/add', {
   name: 'Add_Stuff_Page',
   action() {
